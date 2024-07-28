@@ -1,1 +1,1 @@
-nginx
+hamsterbase/hamsterbase:latest-arm
