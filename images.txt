@@ -1,1 +1,1 @@
-louislam/dockge
+dezhao/immich_cn:1.93.3
