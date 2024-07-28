@@ -1,1 +1,1 @@
-codeberg.org/readeck/readeck
+louislam/dockge
