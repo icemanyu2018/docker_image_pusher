@@ -1,1 +1,1 @@
-hamsterbase/hamsterbase
+readeck/readeck:latest
