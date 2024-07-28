@@ -1,1 +1,1 @@
-readeck
+codeberg.org/readeck/readeck
