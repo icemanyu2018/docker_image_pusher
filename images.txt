@@ -1,1 +1,1 @@
-easychen/pushdeer.git
+github.com/easychen/pushdeer.git
