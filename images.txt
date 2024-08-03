@@ -1,1 +1,1 @@
-gitee.com/easychen/pushdeer.git
+finb/bark
