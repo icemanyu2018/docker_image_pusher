@@ -1,2 +1,2 @@
 
-/easychen/pushdeer
+easychen/pushdeer
